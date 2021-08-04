@@ -1,0 +1,7 @@
+Implementar uma página web que utilize todas as funções Canvas apresentadas em aula
+O código deve obedecer a separação de arquivos ( html, css, scripts)
+Podem ser utilizadas outras funções da biblioteca.
+O código deve estar comentado com a explicação do que foi implementado.
+
+
+Disponiblizar o código no Git Hub e entregar o link do repositório
